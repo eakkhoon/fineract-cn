@@ -7,7 +7,9 @@
     <content url="file://$MODULE_DIR$/../../../integration-tests/fineract-cn-fims-web-app">
       <excludeFolder url="file://$MODULE_DIR$/../../../integration-tests/fineract-cn-fims-web-app/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../integration-tests/fineract-cn-fims-web-app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../integration-tests/fineract-cn-fims-web-app/dist" />
       <excludeFolder url="file://$MODULE_DIR$/../../../integration-tests/fineract-cn-fims-web-app/out" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../integration-tests/fineract-cn-fims-web-app/tmp" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
