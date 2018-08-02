@@ -1,2 +1,2 @@
-# fineractCN
-Fineract CN Intellij project
+# fineract-cn
+Fineract-cn Intellij project
