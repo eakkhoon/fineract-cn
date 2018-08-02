@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accounting.iml" filepath="$PROJECT_DIR$/.idea/modules/accounting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/another-for-test/another-for-test.iml" filepath="$PROJECT_DIR$/.idea/modules/another-for-test/another-for-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anubis.iml" filepath="$PROJECT_DIR$/.idea/modules/anubis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api_main.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/api_test.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/async.iml" filepath="$PROJECT_DIR$/.idea/modules/async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cassandra.iml" filepath="$PROJECT_DIR$/.idea/modules/cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cheques.iml" filepath="$PROJECT_DIR$/.idea/modules/cheques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/command.iml" filepath="$PROJECT_DIR$/.idea/modules/command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/component-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/component-test_main.iml" group="component-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/component-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/component-test_test.iml" group="component-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-api.iml" filepath="$PROJECT_DIR$/.idea/modules/core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core-test.iml" filepath="$PROJECT_DIR$/.idea/modules/core-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crypto.iml" filepath="$PROJECT_DIR$/.idea/modules/crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/customer.iml" filepath="$PROJECT_DIR$/.idea/modules/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data-jpa.iml" filepath="$PROJECT_DIR$/.idea/modules/data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/default-setup.iml" filepath="$PROJECT_DIR$/.idea/modules/default-setup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demo-server.iml" filepath="$PROJECT_DIR$/.idea/modules/demo-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/deposit-account-management.iml" filepath="$PROJECT_DIR$/.idea/modules/deposit-account-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-anubis-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-anubis-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-anubis-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-anubis-api_main.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-anubis-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-anubis-api_test.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-anubis-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-anubis-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-anubis-component-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-anubis-component-test_main.iml" group="component-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-anubis-component-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-anubis-component-test_test.iml" group="component-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-cheques-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-cheques-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-cheques-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-cheques-api_main.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-cheques-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-cheques-api_test.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-cheques-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-cheques-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-cheques-component-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-cheques-component-test_main.iml" group="component-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-cheques-component-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-cheques-component-test_test.iml" group="component-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-cheques-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-cheques-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-cheques-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-cheques-service_main.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-cheques-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-cheques-service_test.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-customer-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-customer-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-customer-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-customer-api_main.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-customer-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-customer-api_test.iml" group="api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-customer-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-customer-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-customer-component-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-customer-component-test_main.iml" group="component-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-customer-component-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-customer-component-test_test.iml" group="component-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-customer-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-customer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-customer-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-customer-service_main.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-customer-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-customer-service_test.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/accounting/fineract-cn-default-setup-accounting.iml" filepath="$PROJECT_DIR$/.idea/modules/accounting/fineract-cn-default-setup-accounting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-deposit-account-management-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-deposit-account-management-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-deposit-account-management-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-deposit-account-management-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-deposit-account-management-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-deposit-account-management-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fineract-cn-fims-web-app.iml" filepath="$PROJECT_DIR$/.idea/modules/fineract-cn-fims-web-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-group-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-group-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-group-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-group-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-group-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-group-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-identity-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-identity-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-identity-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-identity-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-identity-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-identity-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-office-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-office-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-office-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-office-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-office-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-office-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-payroll-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-payroll-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-payroll-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-payroll-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-payroll-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-payroll-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-permitted-feign-client-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-permitted-feign-client-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-permitted-feign-client-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-permitted-feign-client-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/fineract-cn-permitted-feign-client-library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/fineract-cn-permitted-feign-client-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-portfolio-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-portfolio-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-portfolio-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-portfolio-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-portfolio-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-portfolio-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-provisioner-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-provisioner-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-provisioner-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-provisioner-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-provisioner-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-provisioner-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-reporting-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-reporting-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-reporting-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-reporting-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-reporting-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-reporting-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-rhythm-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-rhythm-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-rhythm-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-rhythm-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-rhythm-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-rhythm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-teller-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-teller-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-teller-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-teller-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-teller-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-teller-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-template-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-template-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-template-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-template-component-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-template-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-template-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fineractCN.iml" filepath="$PROJECT_DIR$/fineractCN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/group.iml" filepath="$PROJECT_DIR$/.idea/modules/group.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/identity.iml" filepath="$PROJECT_DIR$/.idea/modules/identity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/importer/importer.iml" filepath="$PROJECT_DIR$/.idea/modules/importer/importer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/importer/importer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/importer/importer_main.iml" group="importer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/importer/importer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/importer/importer_test.iml" group="importer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lang.iml" filepath="$PROJECT_DIR$/.idea/modules/lang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/library_main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/library_main.iml" group="library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/library_test.iml" filepath="$PROJECT_DIR$/.idea/modules/library/library_test.iml" group="library" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mariadb.iml" filepath="$PROJECT_DIR$/.idea/modules/mariadb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/office.iml" filepath="$PROJECT_DIR$/.idea/modules/office.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/payroll.iml" filepath="$PROJECT_DIR$/.idea/modules/payroll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/permitted-feign-client.iml" filepath="$PROJECT_DIR$/.idea/modules/permitted-feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/portfolio.iml" filepath="$PROJECT_DIR$/.idea/modules/portfolio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/provisioner.iml" filepath="$PROJECT_DIR$/.idea/modules/provisioner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reporting.iml" filepath="$PROJECT_DIR$/.idea/modules/reporting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rhythm.iml" filepath="$PROJECT_DIR$/.idea/modules/rhythm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-starter.iml" filepath="$PROJECT_DIR$/.idea/modules/service-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service_main.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service/service_test.iml" group="service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spi/spi.iml" filepath="$PROJECT_DIR$/.idea/modules/spi/spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/teller.iml" filepath="$PROJECT_DIR$/.idea/modules/teller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/template.iml" filepath="$PROJECT_DIR$/.idea/modules/template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test/test.iml" filepath="$PROJECT_DIR$/.idea/modules/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test/test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/test/test_main.iml" group="test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test/test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/test/test_test.iml" group="test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tools.iml" filepath="$PROJECT_DIR$/.idea/modules/tools.iml" />
+    </modules>
+  </component>
+</project>

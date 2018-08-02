@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../core/fineract-cn-api" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../core/fineract-cn-api" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../core/fineract-cn-async" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../core/fineract-cn-async" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../core/fineract-cn-cassandra" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../core/fineract-cn-cassandra" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../core/fineract-cn-command" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../core/fineract-cn-command" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../core/fineract-cn-data-jpa" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../core/fineract-cn-data-jpa" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../core/fineract-cn-lang" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../core/fineract-cn-lang" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../core/fineract-cn-mariadb" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../core/fineract-cn-mariadb" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../core/fineract-cn-test" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../core/fineract-cn-test" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-accounting/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-accounting/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-accounting/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-accounting/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-accounting/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-accounting/component-test" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-accounting/importer">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-accounting/importer" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-accounting" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-accounting" />
+            <option value="$PROJECT_DIR$/../fineract-cn-accounting/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-accounting/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-accounting/importer" />
+            <option value="$PROJECT_DIR$/../fineract-cn-accounting/service" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-anubis/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-anubis/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-anubis/library">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-anubis/library" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-anubis/test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-anubis/test" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-anubis/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-anubis/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-anubis" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-anubis" />
+            <option value="$PROJECT_DIR$/../fineract-cn-anubis/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-anubis/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-anubis/library" />
+            <option value="$PROJECT_DIR$/../fineract-cn-anubis/test" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-cheques/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-cheques/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-cheques/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-cheques/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-cheques/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-cheques/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-cheques" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-cheques" />
+            <option value="$PROJECT_DIR$/../fineract-cn-cheques/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-cheques/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-cheques/service" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-customer/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-customer/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-customer/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-customer/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-customer/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-customer/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-customer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-customer" />
+            <option value="$PROJECT_DIR$/../fineract-cn-customer/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-customer/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-customer/service" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-demo-server" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-demo-server" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-deposit-account-management/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-deposit-account-management/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-deposit-account-management/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-deposit-account-management/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-deposit-account-management/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-deposit-account-management/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-deposit-account-management" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-deposit-account-management" />
+            <option value="$PROJECT_DIR$/../fineract-cn-deposit-account-management/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-deposit-account-management/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-deposit-account-management/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-group/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-group/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-group/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-group/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-group/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-group/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-group" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-group" />
+            <option value="$PROJECT_DIR$/../fineract-cn-group/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-group/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-group/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-identity/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-identity/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-identity/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-identity/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-identity/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-identity/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-identity" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-identity" />
+            <option value="$PROJECT_DIR$/../fineract-cn-identity/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-identity/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-identity/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-office/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-office/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-office/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-office/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-office/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-office/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-office" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-office" />
+            <option value="$PROJECT_DIR$/../fineract-cn-office/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-office/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-office/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-payroll/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-payroll/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-payroll/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-payroll/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-payroll/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-payroll/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-payroll" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-payroll" />
+            <option value="$PROJECT_DIR$/../fineract-cn-payroll/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-payroll/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-payroll/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/library">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/library" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/another-for-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/another-for-test" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-permitted-feign-client" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-permitted-feign-client" />
+            <option value="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/another-for-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-permitted-feign-client/library" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-portfolio/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-portfolio/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-portfolio/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-portfolio/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-portfolio/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-portfolio/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-portfolio" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-portfolio" />
+            <option value="$PROJECT_DIR$/../fineract-cn-portfolio/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-portfolio/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-portfolio/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-provisioner/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-provisioner/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-provisioner/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-provisioner/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-provisioner/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-provisioner/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-provisioner" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-provisioner" />
+            <option value="$PROJECT_DIR$/../fineract-cn-provisioner/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-provisioner/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-provisioner/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-reporting/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-reporting/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-reporting/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-reporting/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-reporting/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-reporting/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-reporting" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-reporting" />
+            <option value="$PROJECT_DIR$/../fineract-cn-reporting/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-reporting/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-reporting/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-rhythm/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-rhythm/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-rhythm/spi">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-rhythm/spi" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-rhythm/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-rhythm/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-rhythm/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-rhythm/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-rhythm" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-rhythm" />
+            <option value="$PROJECT_DIR$/../fineract-cn-rhythm/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-rhythm/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-rhythm/service" />
+            <option value="$PROJECT_DIR$/../fineract-cn-rhythm/spi" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-teller/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-teller/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-teller/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-teller/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-teller/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-teller/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-teller" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-teller" />
+            <option value="$PROJECT_DIR$/../fineract-cn-teller/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-teller/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-teller/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../fineract-cn-template/api">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-template/api" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-template/service">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-template/service" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/../fineract-cn-template/component-test">
+                <projects>
+                  <project path="$PROJECT_DIR$/../fineract-cn-template/component-test" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fineract-cn-template" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fineract-cn-template" />
+            <option value="$PROJECT_DIR$/../fineract-cn-template/api" />
+            <option value="$PROJECT_DIR$/../fineract-cn-template/component-test" />
+            <option value="$PROJECT_DIR$/../fineract-cn-template/service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/../integration-tests/fineract-cn-default-setup/accounting">
+                <projects>
+                  <project path="$PROJECT_DIR$/../integration-tests/fineract-cn-default-setup/accounting" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../integration-tests/fineract-cn-default-setup" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../integration-tests/fineract-cn-default-setup" />
+            <option value="$PROJECT_DIR$/../integration-tests/fineract-cn-default-setup/accounting" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../integration-tests/fineract-cn-demo-server" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../integration-tests/fineract-cn-demo-server" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../integration-tests/fineract-cn-fims-web-app" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../integration-tests/fineract-cn-fims-web-app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../integration-tests/fineract-cn-service-starter" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../integration-tests/fineract-cn-service-starter" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../tools" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../tools" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../tools/fineract-cn-crypto" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../tools/fineract-cn-crypto" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

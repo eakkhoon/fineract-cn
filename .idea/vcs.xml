@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../core/fineract-cn-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../core/fineract-cn-async" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../core/fineract-cn-cassandra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../core/fineract-cn-command" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../core/fineract-cn-data-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../core/fineract-cn-lang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../core/fineract-cn-mariadb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../core/fineract-cn-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-accounting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-anubis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-cheques" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-customer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-deposit-account-management" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-group" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-identity" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-office" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-payroll" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-permitted-feign-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-portfolio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-provisioner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-reporting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-rhythm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-teller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../fineract-cn-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../integration-tests/fineract-cn-default-setup" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../integration-tests/fineract-cn-demo-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../integration-tests/fineract-cn-fims-web-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../integration-tests/fineract-cn-service-starter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tools/fineract-cn-crypto" vcs="Git" />
+  </component>
+</project>

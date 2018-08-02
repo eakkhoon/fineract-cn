@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="deposit-account-management" external.linked.project.path="$MODULE_DIR$/../../../fineract-cn-deposit-account-management" external.root.project.path="$MODULE_DIR$/../../../fineract-cn-deposit-account-management" external.system.id="GRADLE" external.system.module.group="org.apache.fineract.cn" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../fineract-cn-deposit-account-management/out/production/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../fineract-cn-deposit-account-management/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../fineract-cn-deposit-account-management">
+      <excludeFolder url="file://$MODULE_DIR$/../../../fineract-cn-deposit-account-management/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../fineract-cn-deposit-account-management/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../fineract-cn-deposit-account-management/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
