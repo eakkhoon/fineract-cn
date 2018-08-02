@@ -19,7 +19,7 @@
 
 #!/bin/bash
 #Ensure that you have forked Fineract CN repositories from your githubAccount
-githubAccount=lexpattison
+githubAccount=$1
 
 # REM create core folder
 mkdir -p core
