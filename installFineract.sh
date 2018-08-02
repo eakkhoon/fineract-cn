@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ARG1=${1:-fineract}
-ARG2=${2:-lexpattison}
+ARG2=${2:-apache}
 
 mkdir $ARG1
 cd $lexpattison
