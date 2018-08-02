@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="rhythm" external.linked.project.path="$MODULE_DIR$/../../../fineract-cn-rhythm" external.root.project.path="$MODULE_DIR$/../../../fineract-cn-rhythm" external.system.id="GRADLE" external.system.module.group="org.apache.fineract.cn" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
-  <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/../../../fineract-cn-rhythm/out/production/classes" />
-    <output-test url="file://$MODULE_DIR$/../../../fineract-cn-rhythm/out/test/classes" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../fineract-cn-rhythm">
       <excludeFolder url="file://$MODULE_DIR$/../../../fineract-cn-rhythm/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../fineract-cn-rhythm/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../fineract-cn-rhythm/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

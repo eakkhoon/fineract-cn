@@ -9,7 +9,6 @@
     <mapping directory="$PROJECT_DIR$/../core/fineract-cn-lang" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../core/fineract-cn-mariadb" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../core/fineract-cn-test" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../fineract-cn-accounting" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../fineract-cn-anubis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../fineract-cn-cheques" vcs="Git" />

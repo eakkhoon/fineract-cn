@@ -18,8 +18,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="api_main" />
     <orderEntry type="module" module-name="service_main" />
-    <orderEntry type="module" module-name="importer_main" />
     <orderEntry type="module" module-name="component-test_main" />
+    <orderEntry type="module" module-name="importer_main" />
     <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.1" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.fineract.cn.anubis:test:0.1.0-BUILD-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: org.apache.fineract.cn:api:0.1.0-BUILD-SNAPSHOT" level="project" />
