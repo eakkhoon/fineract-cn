@@ -82,10 +82,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-teller-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-teller-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-teller-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-teller-component-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-teller-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-teller-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fineractCN.iml" filepath="$PROJECT_DIR$/fineractCN.iml" /> 
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/fineract-cn-template-api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/fineract-cn-template-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-template-component-test.iml" filepath="$PROJECT_DIR$/.idea/modules/component-test/fineract-cn-template-component-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/service/fineract-cn-template-service.iml" filepath="$PROJECT_DIR$/.idea/modules/service/fineract-cn-template-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fineractCN.iml" filepath="$PROJECT_DIR$/fineractCN.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/group.iml" filepath="$PROJECT_DIR$/.idea/modules/group.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/identity.iml" filepath="$PROJECT_DIR$/.idea/modules/identity.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/importer/importer.iml" filepath="$PROJECT_DIR$/.idea/modules/importer/importer.iml" />
