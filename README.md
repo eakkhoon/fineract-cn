@@ -9,6 +9,6 @@ chmod +x installFineract.sh
 
 The above arguments will default to ./fineract and apache
 
-Open the project at /[directory]/fineract-cn with IntelliJ - this will build the modules and chug for a bit.
+Open the project at ./[directory]/fineract-cn with IntelliJ - this will build the modules and chug for a bit.
 
 Profit!
